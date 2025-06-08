@@ -1,0 +1,51 @@
+Effective Date: 06/08/25
+
+HOFIvision is a message aggregation app that consolidates messages from multiple platforms (e.g., Facebook Messenger, Instagram DMs, Gmail, etc.) into a unified interface for user convenience. Your privacy and data security are our top priorities.
+
+⸻
+
+1. Data Collection
+
+We collect only the data required to deliver messages to and from your connected platforms, including:
+	•	Sender ID
+	•	Message content
+	•	Timestamps
+
+We do not collect or store your credentials. OAuth tokens provided by Facebook/Instagram are stored locally or securely in your environment.
+
+⸻
+
+2. How We Use Data
+	•	Display your messages in a terminal-style interface
+	•	Enable you to respond through connected APIs
+	•	Support basic message routing (e.g., inbox filters, responses)
+
+We do not use your data for marketing, analytics, or resale. We do not send your data to third parties.
+
+⸻
+
+3. Third-Party APIs
+
+We integrate with Facebook Graph API, Instagram Messaging API, Gmail API (planned), and other services you explicitly connect.
+
+These platforms have their own privacy policies. By using HOFIvision, you acknowledge their terms.
+
+⸻
+
+4. Data Storage
+
+All data is stored locally on your device unless explicitly configured otherwise (e.g., cloud sync via your infrastructure).
+
+We do not operate servers or store message content outside your machine.
+
+⸻
+
+5. Your Rights
+
+You may disconnect your accounts or uninstall the app at any time. Since we do not maintain user accounts, we retain no personal data after disconnection.
+
+⸻
+
+6. Contact
+
+For any privacy concerns, email: hi@marcuskehoe.com
